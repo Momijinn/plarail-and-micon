@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">プラレール操縦</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ここはBluetoothモジュールのIPを入力 example:12:34:56:78:91:12 -->
+    <string name="blutooth_ip">00:00:00:00:00:00</string>
+</resources>
